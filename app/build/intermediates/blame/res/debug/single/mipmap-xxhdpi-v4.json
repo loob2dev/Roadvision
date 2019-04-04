@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\common_off_switch.png",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\mipmap-xxhdpi\\common_off_switch.png"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\common_on_switch.png",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\mipmap-xxhdpi\\common_on_switch.png"
+    }
+]

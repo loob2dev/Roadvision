@@ -1,0 +1,4 @@
+#Mon Mar 18 13:05:16 CST 2019
+base.0=E\:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\26
+path.0=classes.dex
+renamed.0=classes.dex

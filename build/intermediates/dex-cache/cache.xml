@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/ijkplayer-java-0.8.4.aar/abba4e1d146da48dda38e2528b328328/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="50f1b1ef2342f465364f1f853bc7afd895d4c328">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/runtime-no-op-0.8.3.aar/63f7f68744d3766992a7796bb2323425/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="048defdec7cd2f8cfaed9ffa770cf7c2422eb782">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ea4689bcfb2da94706e58cde38795ff1/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/481ec0ce9971c6596bb386cc2e517bf3/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/72b175097bdc3d1a0dd5c90fb12b1f40/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/00b2db29201727d3e3a7c3f9a4290be8/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/5ee84e33cf907fcbd6ef3a18e0b06866/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ea4689bcfb2da94706e58cde38795ff1/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e0fa43700587e9e4e593fd2dc4456d91/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/a887ccde6183d472311495f495488c37/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/ijkplayer-armv7a-0.8.4.aar/1f2723ae08621ccbb617c8cbc3d053f6/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e8b7e156d0c9e5e0d0f051822905ee04c51f447c">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/libvlc-3.0.0-1.9.8.ll.aar/96f5259cb5e76d73e28c1b38e31537f5/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d40657ecdb0d67c68983d8005b0e7212ef98aa14">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/libvlc-3.0.0-1.9.8.ll.aar/dfca77758433e43f8f921a0523981ee0/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d40657ecdb0d67c68983d8005b0e7212ef98aa14">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/e0fa43700587e9e4e593fd2dc4456d91/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/7c3d213a675ea2438d61b0989137d12e/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/jjdxm-ijkplayer-armv7a-1.0.0.aar/a71e5e099f8ed6e3b9ed6dec25f753cb/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee5c87419e00b1e6ffe0474ca65804fd32410ee3">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/FlycoDialog_Lib/build/intermediates/intermediate-jars/release/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c80235b1e28e6aa45169caf259a1f1bf2e9643ae">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.3.0.aar/db3aa5e72d8bbe374d96a36266df1c66/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/runtime-no-op-0.8.3.aar/07c1fda75e6c7d6c2d6d0d7fa64ff315/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="048defdec7cd2f8cfaed9ffa770cf7c2422eb782">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/liangxiong/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.3.0.aar/c3f1526e67fc0f22265156e477fa9114/jars/classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/liangxiong/Develop/AndroidDevelop/Macvision_Project/MV_085/app/build/intermediates/transforms/preDex/yinyongbao/release/3.jar" />
+    </item>
+
+</items>

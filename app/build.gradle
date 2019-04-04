@@ -1,0 +1,38 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.antfortune.freeline'
+
+android {
+    compileSdkVersion 28
+    buildToolsVersion '28.0.2'
+    flavorDimensions "versionCode"
+    defaultConfig {
+        applicationId "au.com.CarDVR.Roadvision"
+        targetSdkVersion 28
+        minSdkVersion 19
+        versionCode = 1
+        versionName = "0.6"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+            debuggable false
+        }
+    }
+}
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+dependencies {
+    implementation project(path: ':FlycoDialog_Lib')
+    implementation 'com.android.support:support-v4:28.0.0'
+    implementation(name: 'libvlc-3.0.0-1.9.8.ll', ext: 'aar')
+    implementation 'com.android.support:recyclerview-v7:28.0.0'
+    implementation 'com.github.bumptech.glide:glide:3.5.2'
+    implementation 'com.android.support:appcompat-v7:28.0.0'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-java:0.8.4'
+    implementation 'tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4'
+}

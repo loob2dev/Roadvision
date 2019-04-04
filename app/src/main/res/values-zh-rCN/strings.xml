@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MiniDV</string>
+    <string name="label_file_browser">档案浏览</string>
+    <string name="label_network_configurations">连线设置</string>
+    <string name="message_command_camer">抓拍成功！</string>
+    <string name="message_command_error">抓拍失败！</string>
+    <string name="label_ip_camera_preview">相机预览</string>
+    <string name="label_wifi_ssid">WiFi SSID</string>
+    <string name="label_encryption_key">WIFI 密码</string>
+    <string name="label_re_activate_network">更新并重启</string>
+    <string name="label_title">名称</string>
+    <string name="label_time0">0:00</string>
+    <string name="label_app_record">已暂停录制</string>
+    <string name="label_ok">确定</string>
+    <string name="label_cancel">取消</string>
+    <string name="label_open">播放</string>
+    <string name="label_delete">删除</string>
+    <string name="message_command_succeed">指令成功!</string>
+    <string name="message_command_failed">指令失败!</string>
+    <string name="message_fail_get_info">无法取得相机资讯.</string>
+    <string name="error_no_ssid">请输入 WiFi SSID.</string>
+    <string name="error_ssid_too_long">SSID 超过长度限制.</string>
+    <string name="error_no_key">请输入密码.</string>
+    <string name="error_key_too_short">请输入八位长度的密码.</string>
+    <string name="error_key_too_long">密码字符过长.</string>
+    <string name="label_language">语言</string>
+    <string name="label_default">系统默认</string>
+    <string name="label_reading">读取</string>
+    <string name="label_items">项目</string>
+    <string name="label_language_TChinese">繁體中文</string>
+    <string name="label_language_SChinese">简体中文</string>
+    <string name="FW_Version">"固件/软件版本号</string>
+    <string name="dialog_DHCP_error">请检查DHCP设定</string>
+    <string name="main_video">相机预览</string>
+    <string name="main_dv">SD档案</string>
+    <string name="main_local">手机档案</string>
+    <string name="main_settings">设置</string>
+    <string name="setting_wifi">设置wifi</string>
+    <string name="setting_sdcardfiletime">剩余寿命:</string>
+    <string name="photo">照片</string>
+    <string name="video">视频</string>
+    <string name="sosfile">加锁视频</string>
+    <string name="frontvideo">前视频</string>
+    <string name="backvideo">后视频</string>
+    <string name="label_download">下载</string>
+    <string name="label_factoryreset">恢复出厂设置</string>
+    <string name="label_help">帮助</string>
+    <string name="dialog_no_connection_message_wifi">将手机与录像机WiFi互联</string>
+    <string name="dialog_no_connection_message_video_open">确认摄像机已开启</string>
+    <string name="dialog_no_connection_message_open_wifi">开启手机WiFi连接</string>
+    <string name="dialog_no_connection_message_title">请检查你的WiFi设置</string>
+    <string name="connecting_to_camera">正在连接到记录仪</string>
+    <string name="loading">请稍等</string>
+    <string name="sdfile_loading">正在努力加载中</string>
+    <string name="calloffdown_tip">正在取消下载</string>
+    <string name="help">使用指南</string>
+    <string name="verify">版本校验</string>
+    <string name="connecterror">连接错误</string>
+    <string name="verify_error">请确认已连接到行车记录仪！</string>
+    <string name="recording">录制中</string>
+    <string name="downloading">正在下载....</string>
+    <string name="pleasewait">请等待....</string>
+    <string name="label_shared">共享</string>
+    <string name="main_setting_warnning">需要停止录像才能进入设置界面</string>
+    <string name="trip">提示</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="msg_recording">录制中</string>
+    <string name="msg_stoprecord">已停止录制</string>
+    <string name="label_formatsdcard">格式化存储卡</string>
+    <string name="label_factoryresettrip">恢复出厂设置将会清空您的记录仪中所有的配置信息。</string>
+    <string name="format_attaction">格式化将删除记录仪SD卡上的所有数据。不可恢复
+    若想格式化该SD卡，请单击“确定”，若想退出，请点击“取消”。</string>
+    <string name="message_overwrite_file">文件已存在,是否覆盖?</string>
+    <string name="sd_browser_stoprecord">需要停止录像才能完成该操作</string>
+    <string name="release_to_refresh">松开刷新</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="updating">最近更新：</string>
+    <string name="playVideoError">视频播放错误，请检查摄像头是否异常运行</string>
+    <string name="nomore">没有更多了</string>
+    <string name="erroroneopenfile">每次只能打开一个文件!</string>
+    <string name="lodemore">点击加载更多</string>
+    <string name="deletefileincamera">删除相机文件</string>
+    <string name="erroronesharefile">每次只能共享一个文件</string>
+    <string name="memorysizedeficiency">手机储存空间不足，无法下载此文件，请清理内存后再试!</string>
+    <string name="onKeyDown">退出会使断开与固件的连接，是否继续退出？</string>
+    <string name="pleaseSelectFile">请选择文件！</string>
+    <string name="SDCaedWarning">请插入SD卡</string>
+
+    <string name="help_question1">Q1:不开机</string>
+    <string name="help_question2">Q2:APP无法连接 </string>
+    <string name="help_question3">Q3:记录仪无法录制</string>
+    <string name="help_question4">Q4:APP画面不流畅或不能实录</string>
+    <string name="help_answer1">确保车辆处于点火开启状态，手动按[电源]按键开机记录显示时间不同步通过APP进行时间同步。注意：为确保你的系统记录的时间一致，需要隔段时间进行APP同步时间。详细步骤参考说明书。</string>
+    <string name="help_answer2">请确保SD卡是否故障或系统正常，可通过更换SD卡或【复位】进行重启系统。</string>
+    <string name="help_answer3">请确保SD卡是否故障或系统正常，可通过更换SD卡或【复位】进行重启系统。</string>
+    <string name="label_Close">关闭</string>
+    <string name="exposalmodel">记录仪拍照模式</string>
+    <string name="videorecording">记录仪录像模式</string>
+    <string name="errorsd">SD卡剩余寿命偏低,请注意更换SD卡</string>
+    <string name="capacityused">剩余</string>
+    <string name="newbadblock">坏区信息:</string>
+    <string name="sdcapacity">TF卡容量:</string>
+    <string name="surpluscapacity">已用空间</string>
+    <string name="capcity">存储状态</string>
+    <string name="capcityrecord">存储档案</string>
+    <string name="MaxDownloadFile">一次最多只能下载两个文件</string>
+    <string name="sos">前视频</string>
+    <string name="rearsos">后视频</string>
+    <string name="FrontPhoto">前照片</string>
+    <string name="RearPhoto">后照片</string>
+    <string name="cleanDownload">是否放弃下载?</string>
+    <string name="AWB_Auto">汽车</string>
+    <string name="AWB_Cloudy">Cloudy</string>
+    <string name="AWB_Daylight">Daylight</string>
+    <string name="AWB_Fluorescent_D">Fluorescent (Daylight)</string>
+    <string name="AWB_Fluorescent_N">Fluorescent (Natural)</string>
+    <string name="AWB_Fluorescent_W">Fluorescent (White)</string>
+    <string name="AWB_Incandescent">Incandescent</string>
+    <string name="Delete_All_Images">Delete all images</string>
+    <string name="Delete_All_Videos">Delete all videos</string>
+    <string name="Delete_Current_File">delete current file</string>
+    <string name="Flicker_50">50 Hz</string>
+    <string name="Flicker_60">60 Hz</string>
+    <string name="SyncDeviceBTN">Press to \"Manual Sync\"</string>
+    <string name="SyncDevice">Synchronized with the device</string>
+    <string name="Timesettings">Time Settings</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_Version">APP Version</string>
+    <string name="dialog_no_connection_message">1. Ensure camera is opened. 2. Open wifi in phone. 3. Connect to camera by wifi.</string>
+    <string name="dialog_no_connection_title">Please check your WiFi setup:</string>
+    <string name="exit_trip">Continue recording when exit?</string>
+    <string name="factortreset_attaction">To restore the factory Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="help_answer4">Turn off the phone backstage unnecessary software as far as possible, and the phone near the recorder. Or close the APP and restart.</string>
+    <string name="intraday">Intraday</string>
+    <string name="label_50Hz">50Hz</string>
+    <string name="label_60Hz">60Hz</string>
+    <string name="label_DV_quality">DV Quality</string>
+    <string name="label_Evvalue">EVValue</string>
+    <string name="label_G_sensor">G-sensor</string>
+    <string name="label_High">High</string>
+    <string name="label_Low">Low</string>
+    <string name="label_Middle">Middle</string>
+    <string name="label_Nsystem">NTSC</string>
+    <string name="label_Off">off</string>
+    <string name="label_Psystem">PAL</string>
+    <string name="label_TVSystem">" Video starnard"</string>
+    <string name="label_TV_style">Flicker Frequency</string>
+    <string name="label_app_snapshot">App Snapshot</string>
+    <string name="label_auto">Auto</string>
+    <string name="ensure">确保</string>
+    <string name="giraffe_player_url_empty">请指定播放视频的地址</string>
+    <string name="small_problem">出现了点小问题,稍后重试</string>
+    <string name="can_not_play">不能播放此视频</string>
+    <string name="not_support">播放器不支持此设备</string>
+    <string name="privacypolicy">《隐私保护条款》</string>
+    <string name="privacy_text">隐私声明
+我们的App尊重并保护所有用户的个人隐私权，鉴于移动应用程序的产品特性，本App将不可避免地需要某些信息才能提供用户请求的服务。本隐私权声明解释了这些情况下的数据收集和使用情况。本隐私权声明适用于本App的所有相关服务。
+1. 适用范围  a) 当用户下载和使用本App时，我们不要求用户提供任何信息，也不会收集任何个人信息。  b) 用户使用本App时，App将根据客户请求调用用户手机上的部分功能服务，如录音、拍照等，数据仅供用户手机上自行查看，本App不作任何记录。
+2. 信息使用说明  a) 手机系统摄像机的使用  用户扫描产品上的二维码，以获取产品UID时， 将会启用系统摄像机。二维码正确识别后，系统摄像机服务的调用将终止。  b) 录音功能的使用  用户请求与产品实现语音对讲时，将会调用系统录音功能，通过网络将录音数据传送至产品播放出来。  c) 网络通信的使用 用户请求App控制产品进行操作时，App需要访问系统联网状态，并通过网络将用户的指令发送至产品终端， 视网络状态情况，可能会需要服务器中继转发数据。
+3. 隐私协议的更改 我们对本隐私协议保留修订、添加以及删减等权利，请定期检查本隐私协议是否有新变化。您继续下载和使用本App，将默认为您承认和接受本隐私协议。
+4. 联系我们 　 如果您对我们的隐私政策有任何问题或疑虑，请联系我们。
+</string>
+
+</resources>

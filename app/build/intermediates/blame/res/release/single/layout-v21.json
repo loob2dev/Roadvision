@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

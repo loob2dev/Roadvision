@@ -1,0 +1,15 @@
+#Internal package file, do not edit.
+#Sat Mar 16 02:48:10 CST 2019
+1.base=E\:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\assets\\debug
+2.path=hackload.dex
+0.baseType=DIRECTORY
+2.base=E\:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\assets\\debug
+2.set=ASSET
+1.baseType=DIRECTORY
+count=3
+1.set=ASSET
+0.path=libcompat.7.so
+0.set=ASSET
+0.base=E\:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=apktime

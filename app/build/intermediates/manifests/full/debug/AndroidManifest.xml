@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="au.com.CarDVR.Roadvision"
+    android:versionCode="21"
+    android:versionName="1.27" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="28" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_MULTICAST_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true" />
+
+    <application
+        android:name="au.com.CarDVR.Roadvision.Viewer.VLCApplication"
+        android:allowBackup="true"
+        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar"
+        android:vmSafeMode="true" >
+        <activity
+            android:name="au.com.CarDVR.Roadvision.ViewPagerDemoActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="au.com.CarDVR.Roadvision.MainActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="au.com.CarDVR.Roadvision.Viewer.StreamPlayerActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+        <activity android:name="au.com.CarDVR.Roadvision.ImagebrowseActivity" />
+        <activity
+            android:name="ijkplay.OriginPlayerActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize" />
+
+        <uses-sdk
+            android:minSdkVersion="7"
+            android:targetSdkVersion="22" />
+
+        <activity
+            android:name="com.antfortune.freeline.MiddlewareActivity"
+            android:screenOrientation="portrait" />
+
+        <service
+            android:name="com.antfortune.freeline.FreelineService"
+            android:exported="true"
+            android:process=":freeline" />
+        <service
+            android:name="com.antfortune.freeline.FreelineService$InnerService"
+            android:process=":freeline" />
+
+        <receiver android:name="com.antfortune.freeline.FreelineReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.FreelineReceiver" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

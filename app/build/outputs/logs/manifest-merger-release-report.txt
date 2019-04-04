@@ -1,0 +1,261 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+MERGED from [:FlycoDialog_Lib] E:\mywork\MV\current work\Roadvision\FlycoDialog_Lib\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\020b0825c51e36e85ab18aadc0aa5a45\AndroidManifest.xml:17:1-22:12
+MERGED from [:libvlc-3.0.0-1.9.8.ll:] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\libvlc-3.0.0-1.9.8.ll.aar\dd8f62477ac425f9ad1238fd7f133143\AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\891ad4e138ea3279c2d0f99c11d88e1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0f0278bff3a6f419a7c8f64cf727fa87\AndroidManifest.xml:17:1-22:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.4] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.4.aar\3d32d2aa3ab0c444bcea76475cea5c4e\AndroidManifest.xml:2:1-9:12
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.4.aar\2929d2cf3e1af0d1416c559942780786\AndroidManifest.xml:2:1-9:12
+MERGED from [com.antfortune.freeline:runtime-no-op:0.8.3] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-no-op-0.8.3.aar\c1dccecdbf696c546bc44d0a25a87d80\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b44004c52dc9605d056ff1119f05f7b6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\22fcbee683cf52ba5df66463897b2307\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5d83efe60fc7c794f930e63c52c34205\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63d9b484fc235e41a69d504d1c93f554\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\79132bd525d35eafd4c2b2f762975b64\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4fd669c3032c7becb6110edcb572cfe3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cd25a80d5a0a09d4dfcd805528d02c54\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dde0c3eecf17e383daa3ad2e75b71eaa\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\62ce3d9a9ce1c2431adc06f3171b5b10\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0a4aa520fed812a4a99455fcd62b0394\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f1fc746a49694dcf5f1578842db2dc42\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a93bf57e1c1f3ce45ef344d70f166435\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\091a4363d8815c9d57c6144ce887fce1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4e3b775b79e3f66f3ddf29685f7e06c3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebeb52632bc228e4a188d97b816ac4b1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8147fcec07a918a92685abfd64298454\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a7c8369135a29dda284965cd16be34fa\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d4fdbf83a3fec4c6874bcfc7221c5d57\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c680bfa36d762d146443fcbf23fac77b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\143f25aeaf5bdb1a76ff196dbee4d234\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6d37af37efc865380e3bc2a28b4836ce\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\725ade32a7fa126d244c1e568711d51c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3335664cf51973046da0a2d029fc1111\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7223c3d0bee81a72c09e90ef3f3f7b2c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\073093c9ddf1acb309cc43aba324960b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\110d88422ce768d9d22eae71ec08917c\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:3:5-39
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:1-56:12
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:7:5-86
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:7:22-83
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:8:5-79
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:8:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:11:22-70
+uses-permission#android.permission.WAKE_LOCK
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:12:22-65
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:16:22-77
+supports-screens
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:18:5-22:39
+	android:largeScreens
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:20:9-36
+	android:smallScreens
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:22:9-36
+	android:normalScreens
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:21:9-37
+	android:anyDensity
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:19:9-34
+application
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:24:5-54:19
+MERGED from [:libvlc-3.0.0-1.9.8.ll:] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\libvlc-3.0.0-1.9.8.ll.aar\dd8f62477ac425f9ad1238fd7f133143\AndroidManifest.xml:7:5-11:19
+MERGED from [:libvlc-3.0.0-1.9.8.ll:] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\libvlc-3.0.0-1.9.8.ll.aar\dd8f62477ac425f9ad1238fd7f133143\AndroidManifest.xml:7:5-11:19
+MERGED from [com.antfortune.freeline:runtime-no-op:0.8.3] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-no-op-0.8.3.aar\c1dccecdbf696c546bc44d0a25a87d80\AndroidManifest.xml:11:5-12:19
+MERGED from [com.antfortune.freeline:runtime-no-op:0.8.3] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-no-op-0.8.3.aar\c1dccecdbf696c546bc44d0a25a87d80\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebeb52632bc228e4a188d97b816ac4b1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebeb52632bc228e4a188d97b816ac4b1\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8147fcec07a918a92685abfd64298454\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8147fcec07a918a92685abfd64298454\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebeb52632bc228e4a188d97b816ac4b1\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:28:9-41
+	android:icon
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:27:9-42
+	android:allowBackup
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:29:9-56
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:25:9-70
+activity#au.com.CarDVR.Roadvision.ViewPagerDemoActivity
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:30:9-41:20
+	android:screenOrientation
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:35:13-49
+	android:label
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:33:13-45
+	android:noHistory
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:34:13-37
+	android:configChanges
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:31:13-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:36:13-40:29
+action#android.intent.action.MAIN
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:37:17-69
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:37:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:39:17-77
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:39:27-74
+activity#au.com.CarDVR.Roadvision.MainActivity
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:42:9-46:61
+	android:screenOrientation
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:46:13-49
+	android:label
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:45:13-45
+	android:configChanges
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:43:13-65
+activity#au.com.CarDVR.Roadvision.Viewer.StreamPlayerActivity
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:47:9-49:77
+	android:configChanges
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:49:13-74
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:48:13-80
+activity#au.com.CarDVR.Roadvision.ImagebrowseActivity
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:50:9-90
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:50:19-78
+activity#ijkplay.OriginPlayerActivity
+ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:51:9-53:25
+	android:configChanges
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:52:13-74
+	android:name
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:51:19-62
+uses-sdk
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+MERGED from [:FlycoDialog_Lib] E:\mywork\MV\current work\Roadvision\FlycoDialog_Lib\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [:FlycoDialog_Lib] E:\mywork\MV\current work\Roadvision\FlycoDialog_Lib\build\intermediates\merged_manifests\release\processReleaseManifest\merged\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\020b0825c51e36e85ab18aadc0aa5a45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\020b0825c51e36e85ab18aadc0aa5a45\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\891ad4e138ea3279c2d0f99c11d88e1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-28.0.0.aar\891ad4e138ea3279c2d0f99c11d88e1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0f0278bff3a6f419a7c8f64cf727fa87\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\0f0278bff3a6f419a7c8f64cf727fa87\AndroidManifest.xml:20:5-44
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.4] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.4.aar\3d32d2aa3ab0c444bcea76475cea5c4e\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-java:0.8.4] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\ijkplayer-java-0.8.4.aar\3d32d2aa3ab0c444bcea76475cea5c4e\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.4.aar\2929d2cf3e1af0d1416c559942780786\AndroidManifest.xml:5:5-7:41
+MERGED from [tv.danmaku.ijk.media:ijkplayer-armv7a:0.8.4] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\ijkplayer-armv7a-0.8.4.aar\2929d2cf3e1af0d1416c559942780786\AndroidManifest.xml:5:5-7:41
+MERGED from [com.antfortune.freeline:runtime-no-op:0.8.3] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-no-op-0.8.3.aar\c1dccecdbf696c546bc44d0a25a87d80\AndroidManifest.xml:7:5-9:41
+MERGED from [com.antfortune.freeline:runtime-no-op:0.8.3] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-no-op-0.8.3.aar\c1dccecdbf696c546bc44d0a25a87d80\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b44004c52dc9605d056ff1119f05f7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\b44004c52dc9605d056ff1119f05f7b6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\22fcbee683cf52ba5df66463897b2307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\22fcbee683cf52ba5df66463897b2307\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5d83efe60fc7c794f930e63c52c34205\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0.aar\5d83efe60fc7c794f930e63c52c34205\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63d9b484fc235e41a69d504d1c93f554\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\63d9b484fc235e41a69d504d1c93f554\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\79132bd525d35eafd4c2b2f762975b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\79132bd525d35eafd4c2b2f762975b64\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4fd669c3032c7becb6110edcb572cfe3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0.aar\4fd669c3032c7becb6110edcb572cfe3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cd25a80d5a0a09d4dfcd805528d02c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\cd25a80d5a0a09d4dfcd805528d02c54\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dde0c3eecf17e383daa3ad2e75b71eaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\dde0c3eecf17e383daa3ad2e75b71eaa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\62ce3d9a9ce1c2431adc06f3171b5b10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\62ce3d9a9ce1c2431adc06f3171b5b10\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0a4aa520fed812a4a99455fcd62b0394\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\0a4aa520fed812a4a99455fcd62b0394\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f1fc746a49694dcf5f1578842db2dc42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\f1fc746a49694dcf5f1578842db2dc42\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a93bf57e1c1f3ce45ef344d70f166435\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\a93bf57e1c1f3ce45ef344d70f166435\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\091a4363d8815c9d57c6144ce887fce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\091a4363d8815c9d57c6144ce887fce1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4e3b775b79e3f66f3ddf29685f7e06c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\4e3b775b79e3f66f3ddf29685f7e06c3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebeb52632bc228e4a188d97b816ac4b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\ebeb52632bc228e4a188d97b816ac4b1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8147fcec07a918a92685abfd64298454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\8147fcec07a918a92685abfd64298454\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a7c8369135a29dda284965cd16be34fa\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\a7c8369135a29dda284965cd16be34fa\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d4fdbf83a3fec4c6874bcfc7221c5d57\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d4fdbf83a3fec4c6874bcfc7221c5d57\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c680bfa36d762d146443fcbf23fac77b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\c680bfa36d762d146443fcbf23fac77b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\143f25aeaf5bdb1a76ff196dbee4d234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\143f25aeaf5bdb1a76ff196dbee4d234\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6d37af37efc865380e3bc2a28b4836ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\6d37af37efc865380e3bc2a28b4836ce\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\725ade32a7fa126d244c1e568711d51c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\725ade32a7fa126d244c1e568711d51c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3335664cf51973046da0a2d029fc1111\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\3335664cf51973046da0a2d029fc1111\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7223c3d0bee81a72c09e90ef3f3f7b2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\7223c3d0bee81a72c09e90ef3f3f7b2c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\073093c9ddf1acb309cc43aba324960b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\073093c9ddf1acb309cc43aba324960b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\110d88422ce768d9d22eae71ec08917c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\shenz\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\110d88422ce768d9d22eae71ec08917c\AndroidManifest.xml:20:5-44
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:8:9-10:45
+INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml:8:9-10:45
+	android:targetSdkVersion
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		ADDED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml
+		INJECTED from E:\mywork\MV\current work\Roadvision\app\src\main\AndroidManifest.xml

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: libvlc-3.0.0-1.9.8.ll:@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libvlc-3.0.0-1.9.8.ll.aar/ba93bd971f5194b2a5127b8de00f8d57/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/libvlc-3.0.0-1.9.8.ll.aar/ba93bd971f5194b2a5127b8de00f8d57/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

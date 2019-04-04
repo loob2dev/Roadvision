@@ -1,0 +1,294 @@
+[
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dv_download_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\dv_download_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_light.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_list_btn.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\setting_list_btn.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_size.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\ic_size.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\settings_btn_seletor.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\settings_btn_seletor.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\simple_player_progress_horizontal_holo_dark.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\simple_player_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_voice_search_api_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\preview_recoed_btn_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\preview_recoed_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_backward.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\ic_backward.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_menu_overflow_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_go_search_api_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_tick_mark_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\tooltip_frame_dark.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\simple_player_center_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\simple_player_center_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dv_shared_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\dv_shared_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_pause.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\ic_pause.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dot.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\dot.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_seletor.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\btn_seletor.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\simple_player_control_selector_holo_dark.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\simple_player_control_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\listview_item_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\listview_item_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_forward.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\ic_forward.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_clear_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_checkbox_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\setting_checkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\button_main_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\button_main_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\btn_tab_sytle_selector.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\btn_tab_sytle_selector.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\video_list_length_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\video_list_length_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_btn_txt.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\selector_btn_txt.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_play.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\ic_play.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\setting_btn_text_color.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\setting_btn_text_color.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_ab_back_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\po_seekbar.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\po_seekbar.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_vector_test.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\simple_player_btn.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\simple_player_btn.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\preview_snapshot_btn_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\preview_snapshot_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ic_search_api_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dialog_btn_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\dialog_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dv_delete_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\dv_delete_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\capacity_btn_seletor.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\capacity_btn_seletor.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\file_checkbox_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\file_checkbox_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\video_btn_seletor.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\video_btn_seletor.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\selector_top_btn_txtcolor.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\selector_top_btn_txtcolor.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\dv_open_bg.xml",
+        "source": "E:\\mywork\\MV\\current work\\Roadvision\\app\\src\\main\\res\\drawable\\dv_open_bg.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\ebeb52632bc228e4a188d97b816ac4b1\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "E:\\mywork\\MV\\current work\\Roadvision\\app\\build\\intermediates\\res\\merged\\release\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\shenz\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\0f0278bff3a6f419a7c8f64cf727fa87\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    }
+]

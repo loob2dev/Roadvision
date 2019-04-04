@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/title_detail"
+        android:layout_width="125dp"
+        android:layout_height="100dp"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="18dp"
+        android:background="@android:color/transparent"
+        android:src="@drawable/second_title"
+        />
+
+    <ImageView
+        android:id="@+id/func_round"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="137dp"
+        android:background="@drawable/bg_function_round"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="295dp"
+        android:orientation="horizontal">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/settings_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/settings_btn_seletor" />
+
+            <TextView
+                style="@style/bottom_button_text"
+                android:layout_below="@+id/settings_btn"
+                android:text="@string/main_settings" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ImageView
+                android:id="@+id/capacity_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="62dp"
+                android:background="@drawable/capacity_btn_seletor" />
+
+            <TextView
+                style="@style/bottom_button_text"
+                android:layout_below="@+id/capacity_btn"
+                android:text="@string/capcity" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/video_btn"
+                android:layout_width="65dp"
+                android:layout_height="65dp"
+                android:layout_marginTop="77dp"
+                android:background="@drawable/video_btn_seletor" />
+
+            <TextView
+                style="@style/bottom_button_text"
+                android:layout_width="65dp"
+
+                android:layout_below="@+id/video_btn"
+                android:text="@string/label_ip_camera_preview" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="right">
+
+            <ImageView
+                android:id="@+id/dv_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="62dp"
+                android:background="@drawable/main_dv_btn_normal" />
+
+            <TextView
+                style="@style/bottom_button_text"
+                android:layout_below="@+id/dv_btn"
+                android:text="@string/capcityrecord" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/local_btn"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_marginTop="1dp"
+                android:background="@drawable/main_local_btn_normal" />
+
+            <TextView
+                style="@style/bottom_button_text"
+                android:layout_below="@+id/local_btn"
+                android:text="@string/main_local" />
+
+        </RelativeLayout>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/tv_privace"
+        android:layout_width="388dp"
+        android:layout_height="20dp"
+        android:layout_centerInParent="true"
+        android:layout_above="@+id/help"
+        android:layout_marginBottom="20dp"
+        android:src="@drawable/bottom_title" />
+    <RelativeLayout
+        android:id="@+id/help"
+        android:layout_width="70dp"
+        android:layout_height="30dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="20dp"
+        android:layout_marginRight="20dp">
+
+        <ImageView
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:background="@drawable/help" />
+
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:gravity="center"
+            android:text="@string/label_help" />
+
+    </RelativeLayout>
+
+</RelativeLayout>
