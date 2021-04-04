@@ -28,5 +28,5 @@ For more resources on learning Android development, visit the [Developer Guides]
 ```sh
 git clone https://gitlab.com/superdev1008_xecure/roadvision_ios.git
 cd roadvision
-gradlew build
+./gradlew build
 ```
