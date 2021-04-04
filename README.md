@@ -9,10 +9,11 @@ The video evidence can be invaluable in case of accidents, insurance fraud, poli
 ![Open React template preview](https://github.com/lub2code/images/blob/main/roadvision.jpg)
 
 ## Set up environment
-
-###1. Turn-off your mobile data.
-###2. Connect to MiniDIVI wifi
-###3. Preview on your phone
+```sh
+1. Turn-off your mobile data.
+2. Connect to MiniDIVI wifi
+3. Preview on your phone
+```
 
 ## Getting Started
 
@@ -28,3 +29,4 @@ For more resources on learning Android development, visit the [Developer Guides]
 git clone https://gitlab.com/superdev1008_xecure/roadvision_ios.git
 cd roadvision
 gradlew build
+```
